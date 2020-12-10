@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+html{
+  min-height: 100vh;
+  background: -moz-linear-gradient(top, blue, #000000);
+  padding: 20px;
+}
+img{
+  border-radius: 300px;
+  border: 10px solid grey;
+}
+h2, p{
+  font-family: 'pacifico', cursive;
+  color: white;
+}
